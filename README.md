@@ -1,6 +1,6 @@
 # Your AI Adoption Lift Is a Selection Effect
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/notebooks/ai_adoption_selection_effect.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamgieng/ai-adoption-selection-effect/blob/main/notebooks/ai_adoption_selection_effect.ipynb)
 
 Companion code for the Towards Data Science article *Your AI Adoption Lift Is a Selection Effect*: a practitioner's guide to estimating what an opt-in AI feature actually did, when nobody randomized it.
 
